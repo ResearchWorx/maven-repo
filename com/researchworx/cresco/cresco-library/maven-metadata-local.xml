@@ -3,7 +3,7 @@
   <groupId>com.researchworx.cresco</groupId>
   <artifactId>cresco-library</artifactId>
   <versioning>
-    <release>0.2.3</release>
+    <release>0.2.4</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -18,7 +18,8 @@
       <version>0.2.1</version>
       <version>0.2.2</version>
       <version>0.2.3</version>
+      <version>0.2.4</version>
     </versions>
-    <lastUpdated>20160413150658</lastUpdated>
+    <lastUpdated>20160413151630</lastUpdated>
   </versioning>
 </metadata>
